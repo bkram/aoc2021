@@ -1,4 +1,3 @@
-counter = 0
 previous = 0
 match = 0
 with open('input', 'r') as file:
